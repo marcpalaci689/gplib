@@ -1,0 +1,2 @@
+gplib is an extremely efficient library for gaussian processes. This is an ongoing project. Right now all that is offered is a simple Gaussian Process Regression model using the RBF
+kernel (with or without Automatic Relevance Determination). However tests show that this library outperforms the current state of the art GPy library.
